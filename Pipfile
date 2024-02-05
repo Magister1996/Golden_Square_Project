@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+python-dateutil = "*"
 
 [dev-packages]
 

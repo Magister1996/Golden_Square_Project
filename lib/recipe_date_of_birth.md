@@ -32,6 +32,7 @@ def age_checker(year):
 
 # 3. Create Examples as Tests
 
+```python
 '''
 Give a date in expected format (YYYY-MM-DD) and older than 16
 Returns 'Access granted!' 
@@ -73,5 +74,5 @@ Returns 'Exception'
 '''
 year (input - badstring ) 
 assert year (input - badstring ) => Exception raised by pytest
-
+```
 # 4. Implement the Behaviour
